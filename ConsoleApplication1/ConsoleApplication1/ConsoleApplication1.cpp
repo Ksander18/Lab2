@@ -186,4 +186,4 @@ void changeColors(int n, int& nColors, vector <int>& chosencolors, vector <vecto
 
 
 }
-///CHANGES #1
+//Some changes in code were made
