@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Ksander\Desktop\Rgeze\RGZ2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(51,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ksander\Desktop\Rgeze\RGZ2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(146,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ksander\Desktop\Rgeze\RGZ2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(160,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Ksander\Desktop\Rgeze\RGZ2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(179,22): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication1.vcxproj -> C:\Users\Ksander\Desktop\Rgeze\RGZ2\ConsoleApplication1\Debug\ConsoleApplication1.exe
